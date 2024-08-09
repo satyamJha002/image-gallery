@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex items-center">
           <img
-            src="/public/icons8-image-gallery-96.png"
+            src="icons8-image-gallery-96.png"
             alt="Logo"
             className="h-10 w-10 rounded-full"
           />
